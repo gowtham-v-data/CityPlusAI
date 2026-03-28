@@ -184,22 +184,6 @@ npm run dev
 
 ---
 
-## 📝 Resume Description
-
-> **CityPulse AI — Real-Time City Monitoring System**
->
-> Developed an end-to-end real-time AI-powered city monitoring platform that tracks traffic congestion, air pollution, energy consumption, and anomalies across 6 city zones. Built with FastAPI (Python) backend, React.js frontend, and MongoDB. Implemented 4 ML models (Random Forest, Gradient Boosting, Isolation Forest) with cyclical time encoding for predictions. Features include WebSocket-based live streaming, interactive Leaflet maps, Recharts visualizations, and a threshold-based alert engine. Designed a premium dark-mode dashboard with glassmorphism effects.
->
-> **Tech**: Python, FastAPI, React.js, MongoDB, Scikit-learn, WebSockets, Leaflet, Recharts
-
----
-
-## 📄 License
-
-MIT License — free for academic and portfolio use.
-
----
-
 <p align="center">
   Built with ❤️ for smart cities
 </p>
